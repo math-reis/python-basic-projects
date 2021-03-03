@@ -4,4 +4,4 @@ A Lorem Ipsum programmed in JavaScript, HTML and CSS.
 
 # Screenshot:
 
-![alt text](https://github.com/math-reis/lorem-ipsum/blob/main/image.png?raw=true)
+![alt text](https://github.com/math-reis/basic-projects/blob/main/lorem-ipsum/image.png?raw=true)
