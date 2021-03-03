@@ -6,10 +6,10 @@ Disclaimer: most projects were not done from scratch, but with the help of tutor
 
 ## List of projects
 
-* Scientific Calculator
-* Password Generator
-* Lorem Ipsum
-* Digital Clock
-* URL Shortener
-* Caesar Cipher
-* Simple Charts
+* [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
+* [Password Generator]
+* [Lorem Ipsum]
+* [Digital Clock]
+* [URL Shortener]
+* [Caesar Cipher]
+* [Simple Charts]
