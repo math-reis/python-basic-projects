@@ -6,4 +6,4 @@ GUI used: Tkinter.
 
 # Screenshot:
 
-![alt text](https://github.com/math-reis/digital-clock/blob/main/image.png?raw=true)
+![alt text](https://github.com/math-reis/basic-projects/blob/main/digital-clock/image.png?raw=true)
