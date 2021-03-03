@@ -15,4 +15,4 @@ Bar chart:
 
 Pie chart:
 
-![alt text](https://github.com/math-reis/basic-projects/blob/main/simple-graphics/images/image3.png.png?raw=true)
+![alt text](https://github.com/math-reis/basic-projects/blob/main/simple-graphics/images/image3.png?raw=true)
