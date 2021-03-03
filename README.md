@@ -6,3 +6,6 @@ Disclaimer: most projects were not done from scratch, but with the help of tutor
 
 ## List of projects
 ===================
+
+* Lalala
+* Lalala
