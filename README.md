@@ -6,5 +6,10 @@ Disclaimer: most projects were not done from scratch, but with the help of tutor
 
 ## List of projects
 
-* Lalala
-* Lalala
+* Scientific Calculator
+* Password Generator
+* Lorem Ipsum
+* Digital Clock
+* URL Shortener
+* Caesar Cipher
+* Simple Charts
