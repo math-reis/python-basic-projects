@@ -5,4 +5,4 @@ GUI used: Tkinter.
 
 # Screenshot:
 
-![alt text](https://github.com/math-reis/scientific-calculator/blob/main/image.png?raw=true)
+![alt text](https://github.com/math-reis/basic-projects/blob/main/scientific-calculator/image.png?raw=true)
