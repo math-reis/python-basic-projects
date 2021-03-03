@@ -1,5 +1,5 @@
-# Simple Graphics
-Simple graphics programmed in Python.
+# Simple Charts
+Simple charts programmed in Python.
 
 Library used: Matplotlib.
 
