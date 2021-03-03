@@ -7,9 +7,9 @@ Disclaimer: most projects were not done from scratch, but with the help of tutor
 ## List of projects
 
 * [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
-* [Password Generator]
-* [Lorem Ipsum]
-* [Digital Clock]
-* [URL Shortener]
-* [Caesar Cipher]
-* [Simple Charts]
+* [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
+* [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
+* [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
+* [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
+* [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
+* [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
