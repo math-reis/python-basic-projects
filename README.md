@@ -5,7 +5,6 @@ This repository contains some of my initial projects developed during the beginn
 Disclaimer: most projects were not done from scratch, but with the help of tutorials from other developers.
 
 ## List of projects
-===================
 
 * Lalala
 * Lalala
