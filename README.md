@@ -2,7 +2,7 @@
 
 This repository contains some of my initial projects developed during the beginning of my career.
 
-**Disclaimer:** most of the projects were not designed by me; ; I had help from several online tutorials.
+**Disclaimer:** most of the projects were not designed by me; I had help from several online tutorials.
 
 ## List of projects
 
