@@ -2,9 +2,9 @@
 
 List of some statistical exercises solved by me using the R language. The list is credited to Robert Stinerock, from [SAGE Publications website](https://study.sagepub.com/stinerock/student-resources/exercises).
 
-## Exercises
+## Chapters
 
-* Chapter 1: Introduction and R Instructions
+* [Chapter 1: Introduction and R Instructions](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises/ch-1)
 * Chapter 2: Descriptive Statistics: Tabular and Graphical Methods
 * Chapter 3: Descriptive Statistics: Numerical Methods
 * Chapter 4: Student Exercises
