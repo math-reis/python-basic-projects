@@ -6,15 +6,15 @@ This repository contains some of my initial projects developed during the beginn
 
 ## List of projects
 
+**R**
+* [Example](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
+
 **Python**
 * [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
 * [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
 * [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 * [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
-
-**R**
-* [Example](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
 
 **HTML / CSS / JavaScript**
 * [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
