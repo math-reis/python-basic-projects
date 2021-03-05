@@ -2,7 +2,7 @@
 
 # (a) The sum of 137 and 242.
 
-
+137 + 242
 
 # (b) The difference between 1,206 and 373.
 
