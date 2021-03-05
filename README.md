@@ -13,6 +13,9 @@ This repository contains some of my initial projects developed during the beginn
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 * [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
 
-**JavaScript / HTML / CSS**
+**R**
+* [Example](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
+
+**HTML / CSS / JavaScript**
 * [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 * [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
