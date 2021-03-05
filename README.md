@@ -1,6 +1,6 @@
 # Basic projects
 
-This repository contains some of my initial projects developed during the beginning of my career. The projects are organized according to the languages that I have the most affinity with, and inside each section, they are organized according to their relevance and complexity.. 
+This repository contains some of my initial projects developed during the beginning of my career. The projects are organized according to the languages that I have the most affinity with, and inside each section, they are organized according to their relevance and complexity. 
 
 **Disclaimer:** most of the projects were not entirely designed by me. I had help from several online tutorials.
 
