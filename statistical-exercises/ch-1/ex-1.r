@@ -3,10 +3,12 @@
 # (a) The sum of 137 and 242.
 
 137 + 242
+## [1] 379
 
 # (b) The difference between 1,206 and 373.
 
-
+1206 - 373
+## [1] 833
 
 # (c) The product of 547 and 23.  
 
