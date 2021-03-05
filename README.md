@@ -7,7 +7,7 @@ This repository contains some of my initial projects developed during the beginn
 ## List of projects
 
 **R Language**
-* [Example](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
+* [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
 
 **Python**
 * [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
