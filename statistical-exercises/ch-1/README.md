@@ -1,6 +1,6 @@
-## Chapter 1: Introduction and R Instructions
+# Chapter 1: Introduction and R Instructions
 
-# Exercises
+## Exercises
 
 * Exercise 1
 * Exercise 2
