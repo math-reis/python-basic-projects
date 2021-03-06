@@ -21,10 +21,8 @@ x[8]
 ## [1] 28
 
 # Prove
-
 median(x)
 ## [1] 28
-
 
 # (b) Using the max() and min() functions, find the maximum and minimum values of E1_1. Also, using the sum() and mean() functions, find the sum of all 
 # the data values as well as the mean of E1_1.
