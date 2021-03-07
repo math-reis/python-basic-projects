@@ -1,6 +1,6 @@
 # Arithmetic Formatter
 
-This is a project made as a requirement to obtain the certificate of the course [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) from freeCodeCamp.org.
+This is a project made as a requirement to obtain the certificate of the course [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) from freeCodeCamp.
 
 ### Assignment
 
@@ -63,5 +63,5 @@ Write your code in `arithmetic_arranger.py`. For development, you can use `main.
 
 ### Testing 
 
-The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+The unit tests for this project are in `test_module.py`. I imported the tests from `test_module.py` to `main.py` for convenience. The tests will run automatically whenever you hit the "run" button.
 
