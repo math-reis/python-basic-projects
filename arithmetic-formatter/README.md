@@ -19,11 +19,8 @@ arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
 ```
 
 Output:
-```
-   32      3801      45      123
-+ 698    -    2    + 43    +  49
------    ------    ----    -----
-```
+
+![alt text](https://github.com/math-reis/basic-projects/blob/main/arithmetic-formatter/image.png?raw=true)
 
 Function Call:
 ```py
@@ -65,8 +62,4 @@ Write your code in `arithmetic_arranger.py`. For development, you can use `main.
 ### Testing 
 
 The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
 
