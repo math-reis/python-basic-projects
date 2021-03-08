@@ -15,7 +15,7 @@ If the result will be the next day, it should show `(next day)` after the time. 
 
 If the function is given the optional starting day of the week parameter, then the output should display the day of the week of the result. The day of the week in the output should appear after the time and before the number of days later.
 
-Below are some examples of different cases the function should handle. Pay close attention to the spacing and punctuation of the results.
+Below are some examples of different cases the function should handle.
 ```py
 add_time("3:00 PM", "3:10")
 # Returns: 6:10 PM
