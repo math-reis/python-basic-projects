@@ -8,8 +8,9 @@ This repository contains some of my initial projects developed during the beginn
 
 **Python**
 * [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
-* [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
+* [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
 * [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
+* [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
 * [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 * [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
