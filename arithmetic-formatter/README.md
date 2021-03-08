@@ -21,8 +21,11 @@ arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
 ```
 
 Output:
-
-![alt text](https://github.com/math-reis/basic-projects/blob/main/arithmetic-formatter/image.png?raw=true)
+```
+   32      3801      45      123
++ 698    -    2    + 43    +  49
+-----    ------    ----    -----
+```
 
 Function Call:
 ```py
