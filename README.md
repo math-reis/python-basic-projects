@@ -9,9 +9,9 @@ This repository contains some of my initial projects developed during the beginn
 **Python**
 1. [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
 2. [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
-3. [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
-4. [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
-5. [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
+3. [Polygon Area Calculator](https://github.com/math-reis/basic-projects/tree/main/polygon-area-calculator) 
+4. [Probability Calculator](https://github.com/math-reis/basic-projects/tree/main/probability-calculator) 
+5. [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
 
 **HTML / CSS / JavaScript**
 1. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
@@ -21,6 +21,8 @@ This repository contains some of my initial projects developed during the beginn
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
 
 **Remaining Projects**
+* [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
+* [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 * [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 * [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
