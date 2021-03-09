@@ -5,7 +5,7 @@ Library used: Matplotlib.
 
 Credits to: [Corey Schafer](https://www.youtube.com/watch?v=UO98lJQ3QGI)
 
-# Screenshots:
+## Screenshots:
 
 Line chart:
 
