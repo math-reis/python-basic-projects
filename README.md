@@ -18,7 +18,9 @@ This repository contains some of my initial projects developed during the beginn
 2. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 
 ### R Language
-1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)\
+1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
+
+---
 
 #### Other projects
 * [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
