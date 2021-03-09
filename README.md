@@ -20,7 +20,7 @@ This repository contains some of my initial projects developed during the beginn
 **R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
 
-**Remaining Projects**
+**Other projects**
 * [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
 * [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
