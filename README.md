@@ -6,7 +6,7 @@ This repository contains some of my initial projects developed during the beginn
 
 ## List of projects
 
-**Python**
+###Python
 1. [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
 2. [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
 3. [Polygon Area Calculator](https://github.com/math-reis/basic-projects/tree/main/polygon-area-calculator) 
