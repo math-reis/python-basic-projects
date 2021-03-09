@@ -39,7 +39,6 @@ def arithmetic_arranger(problems, show = False):
     secondline = operators + str(secondNumber.rjust(length - 1))
     sltn = str(sum.rjust(length))
     
-   
     dashline = ""
     for dash in range(length):
       dashline += "-"
