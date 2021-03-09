@@ -1,4 +1,4 @@
-# Arithmetic Formatter  
+# Polygon Area Calculator
 
 This is a project made as a requirement to obtain the certificate of the course [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) from freeCodeCamp.
 
