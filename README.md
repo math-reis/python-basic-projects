@@ -6,23 +6,22 @@ This repository contains some of my initial projects developed during the beginn
 
 ## List of projects
 
-### Python
+**Python**
 1. [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
 2. [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
 3. [Polygon Area Calculator](https://github.com/math-reis/basic-projects/tree/main/polygon-area-calculator) 
 4. [Probability Calculator](https://github.com/math-reis/basic-projects/tree/main/probability-calculator) 
 5. [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
 
-### HTML / CSS / JavaScript
+**HTML / CSS / JavaScript**
 1. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 2. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 
-### R Language
+**R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
 
----
 
-#### Other projects
+**Other projects**
 * [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
 * [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
