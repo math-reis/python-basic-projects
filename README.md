@@ -7,20 +7,20 @@ This repository contains some of my initial projects developed during the beginn
 ## List of projects
 
 **Python**
-* [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
-* [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
-* [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
-* [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
-* [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
+1. [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
+2. [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
+3. [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
+4. [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
+5. [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
+
+**HTML / CSS / JavaScript**
+1. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
+2. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
+
+**R Language**
+1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
+
+**Remaining Projects**
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 * [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 * [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
-
-**HTML / CSS / JavaScript**
-* [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
-* [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
-
-**R Language**
-* [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
-
-**Other projects (no language distinction)**
