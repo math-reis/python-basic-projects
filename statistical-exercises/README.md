@@ -16,3 +16,5 @@ List of some statistical exercises solved by me using the R language. The list i
 * [Chapter 10: Hypothesis Tests About u and p: Applications](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises/ch-10)
 * [Chapter 11: Simple Linear Regression](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises/ch-11)
 * [Chapter 12: Multiple Regression](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises/ch-12)
+
+...
