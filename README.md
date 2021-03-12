@@ -6,8 +6,6 @@ This repository contains some of my initial projects developed during the beginn
 
 ## List of projects
 
-*(Organized by languages)*
-
 :small_blue_diamond: **Python**
 1. [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
 2. [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
