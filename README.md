@@ -17,6 +17,8 @@ This repository contains some of my initial projects developed during the beginn
 1. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 2. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 3. [Cat Photo Site](https://github.com/math-reis/basic-projects/tree/main/cat-photo-site)
+4. ...
+5. ...
 
 :small_blue_diamond: **R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
