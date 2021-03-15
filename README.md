@@ -14,9 +14,9 @@ This repository contains some of my initial projects developed during the beginn
 5. [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
-1. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
-2. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
-3. ...
+1. [Marie Curie Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
+2. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
+3. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 4. ...
 5. ...
 
