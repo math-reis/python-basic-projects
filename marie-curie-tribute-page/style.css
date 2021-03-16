@@ -1,7 +1,62 @@
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
-</style>
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   font-family: 'Redressed', cursive;
+  margin: 0;
 }
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 26px;
+}
+
+p {
+  margin: 20px;
+  font-size: 18px;
+}
+
+a {
+  padding: 20px;
+  margin
+}
+
+footer {
+  text-align: right; 
+  padding: 15px; 
+  font-size: 16px;
+  background: #2d3436;
+  color: #fff;
+}
+
+image {
+  align-content: center;
+}
+
+nav {
+  background-color: #2d3436;
+  padding: 15px;
+}
+
+nav ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: right;
+  list-style: none;
+}
+
+nav ul li a {
+  color: #fff;
+  padding: 10px;
+  text-decoration: none; 
+}
+
