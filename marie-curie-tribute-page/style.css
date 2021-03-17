@@ -1,62 +1,65 @@
-@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+<style>
 
-* {
-  box-sizing: border-box;
-}
+  @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
 
-body {
-  font-family: 'Redressed', cursive;
-  margin: 0;
-}
+  * {
+    box-sizing: border-box;
+  }
 
-h1 {
-  text-align: center;
-  font-size: 40px;
-}
+  body {
+    font-family: 'Redressed', cursive;
+    margin: 0;
+  }
 
-h2 {
-  text-align: center;
-  font-size: 26px;
-}
+  h1 {
+    text-align: center;
+    font-size: 40px;
+  }
 
-p {
-  margin: 20px;
-  font-size: 18px;
-}
+  h2 {
+    text-align: center;
+    font-size: 26px;
+  }
 
-a {
-  padding: 20px;
-  margin
-}
+  p {
+    margin: 20px;
+    font-size: 18px;
+    text-align:justify
+  }
 
-footer {
-  text-align: right; 
-  padding: 15px; 
-  font-size: 16px;
-  background: #2d3436;
-  color: #fff;
-}
+  footer {
+    text-align: right; 
+    padding: 15px; 
+    font-size: 16px;
+    background: #2d3436;
+    color: #fff;
+  }
 
-image {
-  align-content: center;
-}
+  nav {
+    background-color: #2d3436;
+    padding: 15px;
+  }
 
-nav {
-  background-color: #2d3436;
-  padding: 15px;
-}
+  .responsive-img{
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
 
-nav ul {
-  display: flex;
-  margin: 0;
-  padding: 0;
-  justify-content: right;
-  list-style: none;
-}
+  nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: right;
+    list-style: none;
+  }
 
-nav ul li a {
-  color: #fff;
-  padding: 10px;
-  text-decoration: none; 
-}
+  nav ul li a {
+    color: #fff;
+    padding: 10px;
+    text-decoration: none; 
+  }
 
+</style>
