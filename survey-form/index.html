@@ -1,0 +1,58 @@
+<h1 id="title">Basic Survey Form</h1>
+<p id="description">This survey aims to find out basic information of the people who answer it.</p>
+
+  <form id="survey-form">
+
+   <div class="form-control">
+    <label id="name-label" for="name">Full name:</label><br>
+    <input type="text" id="name" name="name" placeholder="Enter your name" required><br>
+   </div>
+
+   <div class="form-control">
+    <label id="email-label" for="email">E-mail:</label><br>
+    <input type="email" id="email" name="email" placeholder="Enter your e-mail" required><br>
+   </div>
+    
+   <div class="form-control">
+    <label id="number-label" for="number">Age</label><br>
+    <input type="number" id="number" name="age" min="18" max="99" placeholder="Enter your age" required><br>
+   </div>
+    
+   <div class="form-control">
+    <label id="dropdown" for="dropdown">Education:</label>
+  <select id="dropdown" name="education">
+    <option value="elementary-school">Elementary School</option>
+    <option value="high-school">High School</option>
+    <option value="graduation">Graduation</option>
+    <option value="post-graduation">Post-graduation</option>
+  </select> 
+   </div>
+    
+   <div class="form-control">
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br>
+    <input type="radio" id="other" name="gender" value="other">
+    <label for="other">Other</label> 
+   </div>
+    
+   <div class="form-control">
+    <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><label for="vehicle1"> I have a bike</label><br>     
+    <input type="checkbox" id="vehicle2" name="vehicle2" value="Car"><label for="vehicle2"> I have a car</label><br> 
+    <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat"><label for="vehicle3"> I have a boat</label><br> 
+   </div>
+    
+   <div class="form-control">
+    <label id="comments-label" for="comments">Aditional comments:</label><br>
+   </div>
+    
+   <div class="form-control">
+    <textarea type="textarea" id="comments" name="comments" placeholder="Optional"></textarea>
+   </div>
+
+    <div class="submit">
+    <input type="submit" id="submit"> 
+   </div>
+    
+  </form>
