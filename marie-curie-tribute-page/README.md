@@ -2,7 +2,7 @@
 
 This is a project made as a requirement to obtain the certificate of the course [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) from freeCodeCamp.
 
-## Objective
+### Objective
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
