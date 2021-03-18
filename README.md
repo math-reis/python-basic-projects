@@ -15,10 +15,10 @@ This repository contains some of my initial projects developed during the beginn
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
-2. [Marie Curie Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
-3. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
-4. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
-5. ...
+2. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
+3. [Marie Curie Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
+4. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
+5. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 
 :small_blue_diamond: **R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
