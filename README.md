@@ -18,7 +18,7 @@ This repository contains some of my initial projects developed during the beginn
 2. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
 3. [Marie Curie Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
 4. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
-5. [Technical Documentation Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
+5. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/porfolio-webpage)
 
 :small_blue_diamond: **R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
@@ -34,6 +34,7 @@ This repository contains some of my initial projects developed during the beginn
 * [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
 * [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
 * [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
+* [Technical Documentation Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 * [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 * [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
