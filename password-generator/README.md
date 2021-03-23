@@ -1,4 +1,3 @@
-# Password Generator
-A password generator programmed in JavaScript, HTML and CSS.
+# passGen
 
-Credits to: [Florin Pop](https://www.youtube.com/watch?v=dtKciwk_si4)
+A web application that generates different kinds of passwords.
