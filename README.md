@@ -29,7 +29,7 @@ This repository contains some of my initial projects developed during the beginn
 
 :small_orange_diamond: **Other projects** 
 
-*(Not organized by languages)*
+*(Not organized by language)*
 
 * [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
 * [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
