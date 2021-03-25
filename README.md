@@ -12,11 +12,11 @@ This repository contains some of my initial projects developed during the beginn
 3. [Polygon Area Calculator](https://github.com/math-reis/basic-projects/tree/main/polygon-area-calculator) 
 4. [Probability Calculator](https://github.com/math-reis/basic-projects/tree/main/probability-calculator) 
 5. [Arithmetic Formatter](https://github.com/math-reis/basic-projects/tree/main/arithmetic-formatter)
-6. [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
-7. [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
-8. [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
-9. [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
-10. [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
+6. [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
+7. [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
+8. [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
+9. [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
+10. [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
