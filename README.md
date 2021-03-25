@@ -33,6 +33,6 @@ This repository contains some of my initial projects developed during the beginn
 * [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 * [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 * [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
-
+* [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
 
 
