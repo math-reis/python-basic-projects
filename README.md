@@ -20,13 +20,6 @@ This repository contains some of my initial projects developed during the beginn
 4. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 5. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
 
-:small_blue_diamond: **R Language**
-1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
-2. ...
-3. ...
-4. ...
-5. ...
-
 :small_orange_diamond: **Other projects** 
 
 *(Not organized by language)*
