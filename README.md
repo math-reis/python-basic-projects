@@ -15,6 +15,8 @@ This repository contains some of my initial projects developed during the beginn
 6. [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 7. [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 8. [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
+9. [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
+10. [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
@@ -25,16 +27,9 @@ This repository contains some of my initial projects developed during the beginn
 6. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
 7. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
 8. [Technical Documentation Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
+9. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 
-:small_orange_diamond: **Other projects** 
-
-*(Not organized by language)*
-
-* [Time Calculator](https://github.com/math-reis/basic-projects/tree/main/time-calculator)
-* [Digital Clock](https://github.com/math-reis/basic-projects/tree/main/digital-clock)
-* [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
-* 
-
-* [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
+:small_blue_diamond: **R Language**
+1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
 
 
