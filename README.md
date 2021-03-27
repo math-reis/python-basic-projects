@@ -24,10 +24,11 @@ This repository contains some of my initial projects developed during the beginn
 3. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
 4. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 5. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
-6. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
-7. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
-8. [Technical Doc. Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
-9. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
+6. [Calculator + Nav bar](https://github.com/math-reis/basic-projects/tree/main/nav-bar-calculator)
+7. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
+8. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
+9. [Technical Doc. Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
+10. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 
 :small_blue_diamond: **R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
