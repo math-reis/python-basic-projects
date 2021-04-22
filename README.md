@@ -6,6 +6,19 @@ This repository contains some of my initial projects developed during the beginn
 
 ## List of projects
 
+:small_blue_diamond: **HTML / CSS / JavaScript**
+1. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
+2. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
+3. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
+4. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
+5. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
+6. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
+7. [Calculator + Nav bar](https://github.com/math-reis/basic-projects/tree/main/nav-bar-calculator)
+8. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
+9. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
+10. [Technical Doc. Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
+11. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
+
 :small_blue_diamond: **Python**
 1. [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
 2. [Budget App](https://github.com/math-reis/basic-projects/tree/main/budget-app)
@@ -17,18 +30,6 @@ This repository contains some of my initial projects developed during the beginn
 8. [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 9. [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 10. [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
-
-:small_blue_diamond: **HTML / CSS / JavaScript**
-1. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
-2. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
-3. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
-4. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
-5. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
-6. [Calculator + Nav bar](https://github.com/math-reis/basic-projects/tree/main/nav-bar-calculator)
-7. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
-8. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
-9. [Technical Doc. Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
-10. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 
 :small_blue_diamond: **R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
