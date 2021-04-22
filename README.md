@@ -13,7 +13,7 @@ This repository contains some of my initial projects developed during the beginn
 4. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
 5. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 6. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
-7. [Calculator](https://github.com/math-reis/basic-projects/tree/main/nav-bar-calculator)
+7. [Calculator](https://github.com/math-reis/basic-projects/tree/main/calculator)
 8. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
 9. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
 10. [Technical Doc. Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
