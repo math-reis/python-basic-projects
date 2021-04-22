@@ -7,17 +7,18 @@ This repository contains some of my initial projects developed during the beginn
 ## List of projects
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
-1. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
-2. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
-3. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
-4. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
-5. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
-6. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
-7. [Nav Bar Calculator](https://github.com/math-reis/basic-projects/tree/main/nav-bar-calculator)
-8. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
-9. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
-10. [Technical Doc. Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
-11. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
+1. [How Good Is My Cat's Name](https://github.com/math-reis/basic-projects/tree/main/how-good-is-my-cats-name)
+2. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
+3. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
+4. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
+5. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
+6. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
+7. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
+8. [Nav Bar Calculator](https://github.com/math-reis/basic-projects/tree/main/nav-bar-calculator)
+9. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
+10. [Weight Converter](https://github.com/math-reis/basic-projects/tree/main/weight-converter)
+11. [Technical Doc. Page](https://github.com/math-reis/basic-projects/tree/main/technical-documentation-page)
+12. [Lorem Ipsum](https://github.com/math-reis/basic-projects/tree/main/lorem-ipsum)
 
 :small_blue_diamond: **Python**
 1. [Scientific Calculator](https://github.com/math-reis/basic-projects/tree/main/scientific-calculator)
