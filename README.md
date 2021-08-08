@@ -9,7 +9,7 @@ This repository contains some of my initial projects developed during the beginn
 
 :small_blue_diamond: **C#**
 1. [Exercises]()
-2. 
+
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Rota Startup]()
 2. [How Good Is My Cat's Name](https://github.com/math-reis/basic-projects/tree/main/how-good-is-my-cats-name)
