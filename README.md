@@ -8,7 +8,7 @@ This repository contains some of my initial projects developed during the beginn
 
 
 :small_blue_diamond: **C#**
-1. [Exercises]()
+1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/csharp_exercises)
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Rota Startup]()
