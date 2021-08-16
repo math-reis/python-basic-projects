@@ -11,9 +11,7 @@ This repository contains some of my initial projects developed during the beginn
 1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/csharp_exercises)
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
-1. [Rota Startup]()
 2. [How Good Is My Cat's Name](https://github.com/math-reis/basic-projects/tree/main/how-good-is-my-cats-name)
-3. [Treine Job]()
 4. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
 5. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
 6. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
