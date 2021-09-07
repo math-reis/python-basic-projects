@@ -8,8 +8,7 @@ class Main
     System.out.print("Enter a number: ");
     int n = number.nextInt ();
     int sum = ((n + 1) * n) / 2;
-    String result =
-    String.format ("The sum of the numbers 1 to %d is %d.", n, sum);
+    String result = String.format ("The sum of the numbers 1 to %d is %d.", n, sum);
     System.out.println (result);
   }
 }
