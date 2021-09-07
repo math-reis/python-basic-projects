@@ -8,7 +8,7 @@ A collection of progressively more difficult exercises made in Java.
 - [ ] 3. [Modify the previous program such that only the users Alice and Bob are greeted with their names.]()
 - [x] 4. [Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.](https://github.com/math-reis/small-projects/blob/main/java_exercises/04.java)
 - [ ] 5. [Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17.]()
-- [x] 6. [Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.](https://github.com/math-reis/small-projects/blob/main/java_exercises/06.java)
+- [x] 6. [Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product the numbers 1 to n.](https://github.com/math-reis/small-projects/blob/main/java_exercises/06.java)
 - [x] 7. [Write a program that prints a multiplication table for numbers up to 12.]()
 - [ ] 8. [Write a program that prints all prime numbers up to n.]()
 - [ ] 9. [Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.]()
