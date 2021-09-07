@@ -4,15 +4,17 @@ class Main
 {
   public static void main (String[]args)
   {
-    Scanner num = new Scanner (System.in);
+    Scanner number = new Scanner (System.in);
     System.out.print ("Enter a number: ");
-    int n = num.nextInt ();
-    int x = 0;
-    while (x <= 12){
-        int mult = n * x;
-        String result = String.format ("%d x %d = %d", n, x, mult);
-	    System.out.println (result);
-        x = x + 1;
-    }  
+    int n = number.nextInt ();
+    int prime = 0;
+    while (prime <= n)
+      {
+	    if (prime % 2 != 0)
+	    {
+	    System.out.println (prime);
+	    }
+	    ++prime;
+      }
   }
 }
