@@ -5,7 +5,7 @@ class Main
   public static void main (String[]args)
   {
     Scanner number = new Scanner (System.in);
-    System.out.println ("Enter a number: ");
+    System.out.print("Enter a number: ");
     int n = number.nextInt ();
     int sum = ((n + 1) * n) / 2;
     String result =
