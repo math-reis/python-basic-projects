@@ -6,6 +6,12 @@ This repository contains some of my initial projects developed during the beginn
 
 ## List of projects
 
+:small_blue_diamond: **C#**
+1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/csharp_exercises)
+
+:small_blue_diamond: **Java**
+1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/java_exercises)
+2. 
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
 2. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
@@ -33,12 +39,6 @@ This repository contains some of my initial projects developed during the beginn
 8. [Caesar Cipher](https://github.com/math-reis/basic-projects/tree/main/caesar-cipher)
 9. [URL Shortener](https://github.com/math-reis/basic-projects/tree/main/URL-shortener)
 10. [Simple Charts](https://github.com/math-reis/basic-projects/tree/main/simple-charts)
-
-:small_blue_diamond: **C#**
-1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/csharp_exercises)
-
-:small_blue_diamond: **Java**
-1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/java_exercises)
 
 :small_blue_diamond: **SQL**
 1. [Exercices](https://github.com/math-reis/basic-projects/tree/main/sql_exercises)
