@@ -1,6 +1,6 @@
 ## Simple Programming Problems
 
-A Collection of progressively more difficult exercises made in Java.
+A collection of progressively more difficult exercises made in Java.
 
 ### Elementary
 - [x] [Write a program that prints "Hello World!" to the screen.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/01.java)
