@@ -37,6 +37,9 @@ This repository contains some of my initial projects developed during the beginn
 :small_blue_diamond: **C#**
 1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/csharp_exercises)
 
+:small_blue_diamond: **Java**
+1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/java_exercises)
+
 :small_blue_diamond: **R Language**
 1. [Statistical Exercises](https://github.com/math-reis/basic-projects/tree/main/statistical-exercises)
 
