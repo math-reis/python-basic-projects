@@ -3,9 +3,9 @@
 A Collection of progressively more difficult exercises made in Java.
 
 ### Elementary
-- [X] [Write a program that prints "Hello World!" to the screen.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/01.java)
-- [X] [Write a program that asks the user for their name and greets them with their name.]()
-- [x] [Modify the previous program such that only the users Alice and Bob are greeted with their names.]()
+- [x] [Write a program that prints "Hello World!" to the screen.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/01.java)
+- [x] [Write a program that asks the user for their name and greets them with their name.]()
+- [ ] [Modify the previous program such that only the users Alice and Bob are greeted with their names.]()
 - [ ] [Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.]()
 - [ ] [Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17.]()
 - [ ] [Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.]()
