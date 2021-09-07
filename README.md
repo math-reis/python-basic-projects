@@ -11,7 +11,7 @@ This repository contains some of my initial projects developed during the beginn
 
 :small_blue_diamond: **Java**
 1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/java_exercises)
-2. 
+
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
 2. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
