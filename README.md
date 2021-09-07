@@ -13,12 +13,12 @@ This repository contains some of my initial projects developed during the beginn
 1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/java_exercises)
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
-1. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
-2. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
-3. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
-4. [Treinejob](https://github.com/math-reis/basic-projects/tree/main/treinejob)
-5. [Rota Startup](https://github.com/math-reis/basic-projects/tree/main/rota-startup)
-6. [How Good Is My Cat's Name](https://github.com/math-reis/basic-projects/tree/main/how-good-is-my-cats-name)
+1. [Treinejob](https://github.com/math-reis/basic-projects/tree/main/treinejob)
+2. [Rota Startup](https://github.com/math-reis/basic-projects/tree/main/rota-startup)
+3. [How Good Is My Cat's Name](https://github.com/math-reis/basic-projects/tree/main/how-good-is-my-cats-name)
+4. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
+5. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
+6. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
 7. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
 8. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 9. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
