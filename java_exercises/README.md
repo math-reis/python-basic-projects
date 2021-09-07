@@ -3,10 +3,10 @@
 A collection of progressively more difficult exercises made in Java.
 
 ### Elementary
-- [x] 1. [Write a program that prints "Hello World!" to the screen.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/01.java)
-- [x] 2. [Write a program that asks the user for their name and greets them with their name.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/02.java)
+- [x] 1. [Write a program that prints "Hello World!" to the screen.](https://github.com/math-reis/small-projects/blob/main/java_exercises/01.java)
+- [x] 2. [Write a program that asks the user for their name and greets them with their name.](https://github.com/math-reis/small-projects/blob/main/java_exercises/02.java)
 - [ ] 3. [Modify the previous program such that only the users Alice and Bob are greeted with their names.]()
-- [x] 4. [Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/04.java)
+- [x] 4. [Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.](https://github.com/math-reis/small-projects/blob/main/java_exercises/04.java)
 - [ ] 5. [Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17.]()
 - [x] 6. [Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.](https://github.com/math-reis/small-projects/blob/main/java_exercises/06.java)
 - [ ] [Write a program that prints a multiplication table for numbers up to 12.]()
