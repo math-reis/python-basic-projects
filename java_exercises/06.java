@@ -23,15 +23,20 @@ class Main
     if (op == 'p' || op == 'P')
       {
 	int i, fact = 1;
-	int number = 5 for (i = 1; i <= number; i++)
+	int number = 5;		//It is the number to calculate factorial    
+	for (i = 1; i <= number; i++)
 	  {
 	    fact = fact * i;
-
-	    System.out.println (fact);
 	  }
-	else
-	{
-	  System.out.println ("Insert a valid option.");
-	}
+	String result =
+	  String.format ("The product of the numbers 1 to %d is %d.", n,
+			 fact);
+	System.out.println (result);
+
+      }
+    else
+      {
+	System.out.println ("Insert a valid option.");
       }
   }
+}
