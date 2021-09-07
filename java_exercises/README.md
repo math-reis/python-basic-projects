@@ -3,7 +3,7 @@
 A Collection of progressively more difficult exercises made in Java.
 
 ### Elementary
-- [X] [Write a program that prints ‘Hello World!’ to the screen.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/1.java)
+- [X] [Write a program that prints "Hello World!" to the screen.](https://github.com/math-reis/small-projects/blob/main/java_exercises/exercises/1.java)
 - [ ] [Write a program that asks the user for their name and greets them with their name.]()
 - [ ] [Modify the previous program such that only the users Alice and Bob are greeted with their names.]()
 - [ ] [Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.]()
