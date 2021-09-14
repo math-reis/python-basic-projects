@@ -1,6 +1,6 @@
 # Basic projects
 
-The repository contains some of my initial projects developed during the beginning of my studies.
+The repository contains some of the initial projects developed by me during the beginning of my studies.
 
 ## List of projects
 
