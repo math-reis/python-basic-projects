@@ -11,7 +11,6 @@ The repository contains some of the initial projects developed by me during the 
 1. [Exercises](https://github.com/math-reis/basic-projects/tree/main/java_exercises)
 
 :small_blue_diamond: **HTML / CSS / JavaScript**
-4. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
 5. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
 6. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
 7. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
