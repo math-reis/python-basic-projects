@@ -13,7 +13,6 @@ The repository contains some of the initial projects developed by me during the 
 :small_blue_diamond: **HTML / CSS / JavaScript**
 1. [Treinejob](https://github.com/math-reis/basic-projects/tree/main/treinejob)
 2. [Rota Startup](https://github.com/math-reis/basic-projects/tree/main/rota-startup)
-3. [How Good Is My Cat's Name](https://github.com/math-reis/basic-projects/tree/main/how-good-is-my-cats-name)
 4. [Color Flipper](https://github.com/math-reis/basic-projects/tree/main/color-flipper)
 5. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
 6. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
