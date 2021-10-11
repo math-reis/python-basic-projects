@@ -14,7 +14,6 @@ The repository contains some of the initial projects developed by me during the 
 1. [Survey Form](https://github.com/math-reis/basic-projects/tree/main/survey-form)
 2. [Product Landing Page](https://github.com/math-reis/basic-projects/tree/main/product-landing-page)
 3. [Tribute Page](https://github.com/math-reis/basic-projects/tree/main/marie-curie-tribute-page)
-4. [Password Generator](https://github.com/math-reis/basic-projects/tree/main/password-generator)
 5. [Portfolio Webpage](https://github.com/math-reis/basic-projects/tree/main/portfolio-webpage)
 6. [Nav Bar Calculator](https://github.com/math-reis/basic-projects/tree/main/nav-bar-calculator)
 7. [Book List](https://github.com/math-reis/basic-projects/tree/main/book-list)
