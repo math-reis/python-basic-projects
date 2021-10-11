@@ -1,4 +1,4 @@
-# Basic projects
+# Python Basic projects
 
 The repository contains some of the initial projects developed by me during the beginning of my studies.
 
